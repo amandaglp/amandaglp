@@ -3,7 +3,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="36" height="36" alt="JavaScript" /></a>
 </div>
   
   ##
