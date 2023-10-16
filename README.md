@@ -1,4 +1,6 @@
 ## Hello! Eu sou a Amanda Lopes, formada em análise de sistemas e estudante de backend!
+:Contato: Você pode me contar por  [amandaglopes31@gmail.com](mailto:amandaglopes31@gmail.com)
+:Curiosidade: Adoro escrever poesias e cantar!
 
 ### Skills
 
